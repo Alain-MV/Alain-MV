@@ -5,11 +5,13 @@
 
 <h1 align="left">Antonio Alain | Méxicano</h1>
 
-<br>
+<br/>
+
   <p>Egresado de la Licenciatura en Informática, con especial interés en el desarrollo backend y la administración de sistemas basados en Linux, entusiasta del software libre y de las distribuciones GNU/Linux, en las que disfruto tanto administrar sistemas como desarrollar software, busco un espacio donde aplicar y seguir fortaleciendo mis conocimientos técnicos dentro de un equipo de desarrollo o infraestructura.</p>
-<br>
+
+<br/>
 <!-- ============================ SOBRE MÍ ============================ -->
-## Sobre mí
+## Conecta conmigo 
 
 ```typescript
 const alain = {
@@ -31,10 +33,7 @@ const alain = {
 ## Conecta conmigo
 
 <p align="center">
-  <a href="mailto:antonioalain15@gmail.com>
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="www.linkedin.com/in/antonio-alain"> 
+  <a href="https://www.linkedin.com/in/antonio-alain">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Alain-MV">
