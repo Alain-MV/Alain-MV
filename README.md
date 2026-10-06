@@ -11,7 +11,8 @@
 
 <br/>
 <!-- ============================ SOBRE MÍ ============================ -->
-## Conecta conmigo 
+
+## Sobre mí
 
 ```typescript
 const alain = {
@@ -29,24 +30,8 @@ const alain = {
 
 <br/>
 
-<!-- ============================ CONTACTO ============================ -->
-## Conecta conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/antonio-alain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Alain-MV">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/antonio_alain.ph">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<br/>
-
 <!-- ============================ TECNOLOGÍAS ============================ -->
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -66,7 +51,26 @@ const alain = {
 
 <br/>
 
+<!-- ============================ CONTACTO ============================ -->
+
+## Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-alain">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Alain-MV">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/antonio_alain.ph">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<br/>
+
 <!-- ============================ ESTADÍSTICAS ============================ -->
+
 ## Analítica
 
 <p align="center">
