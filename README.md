@@ -1,75 +1,55 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  README de perfil de GitHub — Alain-MV                        ║
-  ║  Reemplaza los valores marcados con  <-- CAMBIA ...           ║
+  ║  Reemplaza lo marcado con  <-- CAMBIA ...                     ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ============================ FOTO ============================ -->
-<!--
-  Sube tu foto vertical a la carpeta  assets/  de este repo
-  (por ejemplo  assets/perfil.jpg) y deja la ruta de abajo.
-  'height' controla el tamaño: súbelo o bájalo a tu gusto.
--->
+<!-- ============================ ENCABEZADO ============================ -->
 <p align="center">
-  <img src="01.jpeg" alt="Alain MV" height="440" style="border-radius:16px;" />
+  <img src="01.jpeg" alt="Alain MV" height="420" style="border-radius:18px;" />
 </p>
 
-<h1 align="center">Hola, soy Alain 👋</h1>
-<p align="center"><em>Desarrollador Backend</em></p> <!-- <-- CAMBIA tu título/rol -->
+<h1 align="center">Alain MV</h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Desarrollador+Backend;APIs+y+bases+de+datos;Construyendo+software+con+prop%C3%B3sito" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alain-MV&style=flat-square&color=6DB33F&label=Visitas+al+perfil" alt="Visitas" />
+  <img src="https://img.shields.io/github/followers/Alain-MV?style=flat-square&color=6DB33F&label=Seguidores" alt="Seguidores" />
+</p>
 
 <br/>
 
 <!-- ============================ SOBRE MÍ ============================ -->
 ## 🧑‍💻 Sobre mí
 
-<table>
-  <tr><td>🌍 <strong>Idiomas</strong></td><td>Español · Inglés</td></tr>
-  <tr><td>💼 <strong>Rol</strong></td><td>Desarrollador Backend</td></tr> <!-- <-- CAMBIA -->
-  <tr><td>🎯 <strong>Enfoque</strong></td><td>APIs, bases de datos y lógica del lado del servidor</td></tr> <!-- <-- CAMBIA -->
-  <tr><td>🎮 <strong>Hobbies</strong></td><td>Videojuegos · Tecnología · ...</td></tr> <!-- <-- CAMBIA tus hobbies -->
-  <tr><td>🌱 <strong>Aprendiendo</strong></td><td>...</td></tr> <!-- <-- CAMBIA qué estás aprendiendo -->
-  <tr><td>⚡ <strong>Dato curioso</strong></td><td>...</td></tr> <!-- <-- CAMBIA un dato curioso -->
-</table>
-
-<br/>
-
-<!-- ============================ TECNOLOGÍAS ============================ -->
-## 🛠️ Tecnologías
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/><br/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/><br/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <!-- Añade o quita badges copiando una línea. Busca más en https://shields.io -->
-</p>
-
-<br/>
-
-<!-- ============================ ESTADÍSTICAS ============================ -->
-## 📊 Estadísticas de mi perfil
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alain-MV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-MV&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alain-MV&theme=tokyonight" alt="Racha de contribuciones"/>
-</p>
+```typescript
+const alain = {
+  rol: "Desarrollador Backend",
+  ubicacion: "...",                      // <-- CAMBIA tu ciudad/país
+  idiomas: ["Español", "Inglés"],
+  construyendo: ["APIs REST", "Sistemas backend"],   // <-- CAMBIA
+  aprendiendo: ["..."],                  // <-- CAMBIA qué estás aprendiendo
+  hobbies: ["Videojuegos", "Tecnología", "..."],     // <-- CAMBIA tus hobbies
+  stack: {
+    lenguajes: ["Node.js", "Python", "Java", "PHP", "C#"],
+    frameworks: ["Express", "Spring"],
+    bases_de_datos: ["MySQL", "PostgreSQL"],
+    herramientas: ["Git", "Docker", "Linux"],
+  },
+  datoCurioso: "...",                     // <-- CAMBIA un dato curioso
+};
+```
 
 <br/>
 
 <!-- ============================ CONTACTO ============================ -->
-## 📫 Contacto
+## 🔗 Conecta conmigo
 
 <p align="center">
   <a href="mailto:alain@info-sync.com">
@@ -81,7 +61,58 @@
   <a href="https://github.com/Alain-MV">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/TU-USUARIO"> <!-- <-- CAMBIA tu URL de Instagram/X -->
+  <a href="https://www.instagram.com/TU-USUARIO"> <!-- <-- CAMBIA tu URL de Instagram -->
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+<br/>
+
+<!-- ============================ TECNOLOGÍAS ============================ -->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <strong>Lenguajes & Frameworks</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,php,cs&theme=dark" alt="Lenguajes y frameworks"/>
+</p>
+
+<p align="center">
+  <strong>Bases de datos</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Bases de datos"/>
+</p>
+
+<p align="center">
+  <strong>Herramientas & DevOps</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,postman&theme=dark" alt="Herramientas"/>
+</p>
+
+<br/>
+
+<!-- ============================ ESTADÍSTICAS ============================ -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alain-MV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-MV&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alain-MV&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alain-MV&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad"/>
+</p>
+
+<br/>
+
+<!-- ============================ TROFEOS ============================ -->
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alain-MV&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofeos de GitHub"/>
+</p>
+
+<br/>
+
+<p align="center"><em>⭐️ Gracias por visitar mi perfil ⭐️</em></p>
