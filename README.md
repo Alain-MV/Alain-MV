@@ -21,8 +21,8 @@ const alain = {
   idiomas: ["Español", "Inglés"],
   aprendiendo: ["Rust"],                  
   hobbies: ["Fotografía", "VideoJuegos"], 
-  descrioción: {
-    "Alain"
+  stack: {
+    sistemaOperativo: ["Manjaro Linux"],
   },
   datoCurioso: "Me gustan los tacos de pastor",
 };
@@ -32,7 +32,7 @@ const alain = {
 
 <!-- ============================ TECNOLOGÍAS ============================ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <strong>Lenguajes & Frameworks</strong><br/><br/>
