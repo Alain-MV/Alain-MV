@@ -1,16 +1,9 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  README de perfil de GitHub — Alain-MV                        ║
-  ║  Reemplaza lo marcado con  <-- CAMBIA ...                     ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<!-- ============================ ENCABEZADO ============================ -->
+- ============================ ENCABEZADO ============================ -->
 <p align="center">
   <img src="01.jpeg" alt="Alain MV" height="420" style="border-radius:18px;" />
 </p>
 
-<h1 align="center">Alain MV</h1>
+<h1 align="center">Antonio Alain</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -26,42 +19,38 @@
 <br/>
 
 <!-- ============================ SOBRE MÍ ============================ -->
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 ```typescript
 const alain = {
-  rol: "Desarrollador Backend",
-  ubicacion: "...",                      // <-- CAMBIA tu ciudad/país
+  rol: "Ingeniero de software",
+  ubicacion: "Oaxaca de Juárez | México",                      
   idiomas: ["Español", "Inglés"],
-  construyendo: ["APIs REST", "Sistemas backend"],   // <-- CAMBIA
-  aprendiendo: ["..."],                  // <-- CAMBIA qué estás aprendiendo
-  hobbies: ["Videojuegos", "Tecnología", "..."],     // <-- CAMBIA tus hobbies
-  stack: {
-    lenguajes: ["Node.js", "Python", "Java", "PHP", "C#"],
-    frameworks: ["Express", "Spring"],
-    bases_de_datos: ["MySQL", "PostgreSQL"],
-    herramientas: ["Git", "Docker", "Linux"],
+  aprendiendo: ["Rust"],                  
+  hobbies: ["Fotografía", "VideoJuegos"], 
+  descrioción: {
+    "Egresado de la Licenciatura en Informática, con especial interés en el desarrollo backend y la administración de sistemas basados en Linux, entusiasta del software libre y de las distribuciones GNU/Linux, en las que disfruto tanto administrar sistemas como desarrollar software, busco un espacio donde aplicar y seguir fortaleciendo mis conocimientos técnicos dentro de un equipo de desarrollo o infraestructura."
   },
-  datoCurioso: "...",                     // <-- CAMBIA un dato curioso
+  datoCurioso: "Me gustan los tacos de pastor",
 };
 ```
 
 <br/>
 
 <!-- ============================ CONTACTO ============================ -->
-## 🔗 Conecta conmigo
+## Conecta conmigo
 
 <p align="center">
-  <a href="mailto:alain@info-sync.com">
+  <a href="mailto:antonioalain15@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"> <!-- <-- CAMBIA tu URL de LinkedIn -->
+  <a href="www.linkedin.com/in/antonio-alain"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Alain-MV">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/TU-USUARIO"> <!-- <-- CAMBIA tu URL de Instagram -->
+  <a href="https://www.instagram.com/antonio_alain.ph">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -73,23 +62,23 @@ const alain = {
 
 <p align="center">
   <strong>Lenguajes & Frameworks</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,php,cs&theme=dark" alt="Lenguajes y frameworks"/>
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,python,fastapi,django,java,spring,cs&theme=dark" alt="Lenguajes y frameworks"/>
 </p>
 
 <p align="center">
   <strong>Bases de datos</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Bases de datos"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Bases de datos"/>
 </p>
 
 <p align="center">
   <strong>Herramientas & DevOps</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,postman&theme=dark" alt="Herramientas"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,postman,dbeaber&theme=dark" alt="Herramientas"/>
 </p>
 
 <br/>
 
 <!-- ============================ ESTADÍSTICAS ============================ -->
-## 📊 GitHub Analytics
+## Analítica
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alain-MV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
@@ -104,15 +93,4 @@ const alain = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alain-MV&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad"/>
 </p>
 
-<br/>
 
-<!-- ============================ TROFEOS ============================ -->
-## 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alain-MV&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofeos de GitHub"/>
-</p>
-
-<br/>
-
-<p align="center"><em>⭐️ Gracias por visitar mi perfil ⭐️</em></p>
