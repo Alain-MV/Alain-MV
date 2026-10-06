@@ -23,6 +23,7 @@ const alain = {
   hobbies: ["Fotografía", "VideoJuegos"], 
   stack: {
     sistemaOperativo: ["Manjaro Linux"],
+    NFL: ["Bills"]
   },
   datoCurioso: "Me gustan los tacos de pastor",
 };
